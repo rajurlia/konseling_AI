@@ -23,6 +23,4 @@ Bot Telegram yang dirancang sebagai asisten awal konseling mahasiswa menggunakan
 - Telegram Bot Token (dari @BotFather)
 - Groq API Key
 - ID konselor (dari @userinfo3bot)
-1. Clone repository:
-   ```bash
-   git clone [https://github.com/username/campus-counseling-bot.git](https://github.com/username/campus-counseling-bot.git)
+
